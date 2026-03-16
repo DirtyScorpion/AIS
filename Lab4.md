@@ -1,4 +1,4 @@
-
+```mermaid
 flowchart TD
 
     classDef startEnd fill:#c8e6c9,stroke:#2e7d32,stroke-width:2px;
@@ -83,3 +83,4 @@ flowchart TD
     Supporting_Processes -.- Release_Phase
 
     Analytics --> End(("Прибыль /<br>Новый цикл")):::startEnd
+```
