@@ -1,3 +1,4 @@
+```mermaid
 graph TD
     %% Определение стилей для режимов функционирования
     classDef mode24x7 fill:#ffcccc,stroke:#b30000,stroke-width:2px; 
@@ -73,3 +74,4 @@ graph TD
         L4[09:00-18:00 - Администрация]:::mode8x5
         L5[По расписанию - Фоновые процессы]:::modeScheduled
     end
+```
