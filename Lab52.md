@@ -1,3 +1,4 @@
+’’’mermaid
 graph TD
     %% Стили
     classDef net fill:#e1f5fe,stroke:#01579b,stroke-width:2px,color:#000
@@ -158,3 +159,4 @@ graph TD
     FW -->|VPN-туннель| YC_VM
     YC_VM --> YC_S3
     YC_VM --> YC_DNS
+’’’
